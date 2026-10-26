@@ -1,0 +1,6 @@
+{
+  "name": "Controle de Férias CLT",
+  "description": "Planilha inteligente e automatizada para gestão de férias CLT com esteira de solicitação, aprovação de gestores e homologação de RH.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
